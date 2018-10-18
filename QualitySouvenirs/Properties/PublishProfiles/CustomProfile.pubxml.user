@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword />
+    <_PublishTargetUrl>E:\QS</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>09/22/2018 14:13:34</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>10/11/2018 15:10:20</publishTime>
+    </File>
+    <File Include="BouncyCastle.Crypto.dll">
+      <publishTime>04/10/2018 13:45:44</publishTime>
+    </File>
+    <File Include="bower.json">
+      <publishTime>09/22/2018 14:13:34</publishTime>
+    </File>
+    <File Include="bundleconfig.json">
+      <publishTime>09/22/2018 14:13:34</publishTime>
+    </File>
+    <File Include="MailKit.dll">
+      <publishTime>08/04/2018 09:23:18</publishTime>
+    </File>
+    <File Include="MimeKit.dll">
+      <publishTime>08/04/2018 09:04:34</publishTime>
+    </File>
+    <File Include="QualitySouvenirs.deps.json">
+      <publishTime>10/18/2018 12:18:12</publishTime>
+    </File>
+    <File Include="QualitySouvenirs.dll">
+      <publishTime>10/18/2018 12:16:42</publishTime>
+    </File>
+    <File Include="QualitySouvenirs.pdb">
+      <publishTime>10/18/2018 12:16:42</publishTime>
+    </File>
+    <File Include="QualitySouvenirs.PrecompiledViews.dll">
+      <publishTime>10/18/2018 12:17:06</publishTime>
+    </File>
+    <File Include="QualitySouvenirs.PrecompiledViews.pdb">
+      <publishTime>10/18/2018 12:17:06</publishTime>
+    </File>
+    <File Include="QualitySouvenirs.runtimeconfig.json">
+      <publishTime>10/18/2018 12:18:14</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>10/18/2018 12:18:14</publishTime>
+    </File>
+    <File Include="wwwroot/css/site.css">
+      <publishTime>10/14/2018 14:59:10</publishTime>
+    </File>
+    <File Include="wwwroot/css/site.min.css">
+      <publishTime>10/11/2018 15:19:10</publishTime>
+    </File>
+    <File Include="wwwroot/favicon.ico">
+      <publishTime>09/12/2018 16:54:44</publishTime>
+    </File>
+    <File Include="wwwroot/favicon.png">
+      <publishTime>09/12/2018 16:54:12</publishTime>
+    </File>
+    <File Include="wwwroot/images/banner1.svg">
+      <publishTime>09/06/2018 14:01:38</publishTime>
+    </File>
+    <File Include="wwwroot/images/banner2.svg">
+      <publishTime>09/06/2018 14:01:38</publishTime>
+    </File>
+    <File Include="wwwroot/images/banner3.svg">
+      <publishTime>09/06/2018 14:01:38</publishTime>
+    </File>
+    <File Include="wwwroot/images/banner4.svg">
+      <publishTime>09/06/2018 14:01:38</publishTime>
+    </File>
+    <File Include="wwwroot/images/cup.png">
+      <publishTime>10/07/2018 14:27:58</publishTime>
+    </File>
+    <File Include="wwwroot/images/cups.jpg">
+      <publishTime>09/12/2018 11:45:52</publishTime>
+    </File>
+    <File Include="wwwroot/images/gifts.jpg">
+      <publishTime>09/12/2018 16:26:12</publishTime>
+    </File>
+    <File Include="wwwroot/images/github.svg">
+      <publishTime>09/01/2018 09:29:34</publishTime>
+    </File>
+    <File Include="wwwroot/images/hat.png">
+      <publishTime>10/07/2018 14:30:00</publishTime>
+    </File>
+    <File Include="wwwroot/images/hats.jpg">
+      <publishTime>09/12/2018 11:38:34</publishTime>
+    </File>
+    <File Include="wwwroot/images/hero-contact.jpg">
+      <publishTime>09/01/2018 09:50:48</publishTime>
+    </File>
+    <File Include="wwwroot/images/hero-image-four.jpg">
+      <publishTime>10/07/2018 11:37:26</publishTime>
+    </File>
+    <File Include="wwwroot/images/hero-image-one.jpg">
+      <publishTime>10/07/2018 11:37:40</publishTime>
+    </File>
+    <File Include="wwwroot/images/hero-image-three.jpg">
+      <publishTime>10/07/2018 11:37:06</publishTime>
+    </File>
+    <File Include="wwwroot/images/hero-image-two.jpg">
+      <publishTime>10/07/2018 11:37:56</publishTime>
+    </File>
+    <File Include="wwwroot/images/hero-image.png">
+      <publishTime>09/01/2018 09:47:02</publishTime>
+    </File>
+    <File Include="wwwroot/images/hero-portfolio.jpg">
+      <publishTime>09/01/2018 09:51:34</publishTime>
+    </File>
+    <File Include="wwwroot/images/kiwibird.jpeg">
+      <publishTime>09/10/2018 17:00:18</publishTime>
+    </File>
+    <File Include="wwwroot/images/Leadership-one.jpeg">
+      <publishTime>09/12/2018 21:45:18</publishTime>
+    </File>
+    <File Include="wwwroot/images/Leadership.jpeg">
+      <publishTime>09/12/2018 22:32:08</publishTime>
+    </File>
+    <File Include="wwwroot/images/linkedin.svg">
+      <publishTime>09/01/2018 09:27:32</publishTime>
+    </File>
+    <File Include="wwwroot/images/logo-icon.png">
+      <publishTime>09/12/2018 23:33:02</publishTime>
+    </File>
+    <File Include="wwwroot/images/Logo.jpg">
+      <publishTime>09/11/2018 09:04:04</publishTime>
+    </File>
+    <File Include="wwwroot/images/maorigifts.png">
+      <publishTime>10/07/2018 14:29:08</publishTime>
+    </File>
+    <File Include="wwwroot/images/medium.svg">
+      <publishTime>09/01/2018 09:28:12</publishTime>
+    </File>
+    <File Include="wwwroot/images/Painting.png">
+      <publishTime>10/09/2018 18:29:58</publishTime>
+    </File>
+    <File Include="wwwroot/images/Pono.jpg">
+      <publishTime>09/07/2018 10:46:38</publishTime>
+    </File>
+    <File Include="wwwroot/images/Pono.png">
+      <publishTime>09/07/2018 10:42:18</publishTime>
+    </File>
+    <File Include="wwwroot/images/project-1.jpg">
+      <publishTime>09/01/2018 09:55:16</publishTime>
+    </File>
+    <File Include="wwwroot/images/project-2.jpg">
+      <publishTime>09/01/2018 10:00:48</publishTime>
+    </File>
+    <File Include="wwwroot/images/project-3.jpg">
+      <publishTime>09/01/2018 10:01:02</publishTime>
+    </File>
+    <File Include="wwwroot/images/search-icon.png">
+      <publishTime>09/12/2018 18:24:00</publishTime>
+    </File>
+    <File Include="wwwroot/images/search.png">
+      <publishTime>09/12/2018 18:30:04</publishTime>
+    </File>
+    <File Include="wwwroot/images/search.svg">
+      <publishTime>09/12/2018 18:10:12</publishTime>
+    </File>
+    <File Include="wwwroot/images/Souvenirs/cup001.png">
+      <publishTime>10/07/2018 11:10:14</publishTime>
+    </File>
+    <File Include="wwwroot/images/Souvenirs/cup002.png">
+      <publishTime>10/07/2018 11:09:50</publishTime>
+    </File>
+    <File Include="wwwroot/images/Souvenirs/cup003.png">
+      <publishTime>10/07/2018 11:10:48</publishTime>
+    </File>
+    <File Include="wwwroot/images/Souvenirs/cup004.png">
+      <publishTime>10/07/2018 11:11:04</publishTime>
+    </File>
+    <File Include="wwwroot/images/Souvenirs/cup005.png">
+      <publishTime>10/07/2018 11:11:16</publishTime>
+    </File>
+    <File Include="wwwroot/images/Souvenirs/cup006.png">
+      <publishTime>10/07/2018 11:11:34</publishTime>
+    </File>
+    <File Include="wwwroot/images/Souvenirs/cup007.png">
+      <publishTime>10/07/2018 11:11:56</publishTime>
+    </File>
+    <File Include="wwwroot/images/Souvenirs/cup008.png">
+      <publishTime>10/07/2018 11:12:08</publishTime>
+    </File>
+    <File Include="wwwroot/images/Souvenirs/cup009.png">
+      <publishTime>10/07/2018 11:12:34</publishTime>
+    </File>
+    <File Include="wwwroot/images/Souvenirs/cup010.png">
+      <publishTime>10/07/2018 11:12:52</publishTime>
+    </File>
+    <File Include="wwwroot/images/Souvenirs/cup011.png">
+      <publishTime>10/07/2018 11:03:16</publishTime>
+    </File>
+    <File Include="wwwroot/images/Souvenirs/cup012.png">
+      <publishTime>10/07/2018 11:03:52</publishTime>
+    </File>
+    <File Include="wwwroot/images/Souvenirs/cup013.png">
+      <publishTime>10/07/2018 11:04:38</publishTime>
+    </File>
+    <File Include="wwwroot/images/Souvenirs/cup014.png">
+      <publishTime>10/07/2018 11:05:16</publishTime>
+    </File>
+    <File Include="wwwroot/images/Souvenirs/Default.png">
+      <publishTime>09/07/2018 10:42:18</publishTime>
+    </File>
+    <File Include="wwwroot/images/Souvenirs/gift001.png">
+      <publishTime>10/07/2018 11:05:32</publishTime>
+    </File>
+    <File Include="wwwroot/images/Souvenirs/gift002.png">
+      <publishTime>10/07/2018 11:05:46</publishTime>
+    </File>
+    <File Include="wwwroot/images/Souvenirs/gift003.png">
+      <publishTime>10/07/2018 11:06:22</publishTime>
+    </File>
+    <File Include="wwwroot/images/Souvenirs/gift004.png">
+      <publishTime>10/07/2018 11:06:42</publishTime>
+    </File>
+    <File Include="wwwroot/images/Souvenirs/gift005.png">
+      <publishTime>10/07/2018 11:07:22</publishTime>
+    </File>
+    <File Include="wwwroot/images/Souvenirs/gift006.png">
+      <publishTime>10/07/2018 11:07:36</publishTime>
+    </File>
+    <File Include="wwwroot/images/Souvenirs/gift007.png">
+      <publishTime>10/07/2018 11:07:54</publishTime>
+    </File>
+    <File Include="wwwroot/images/Souvenirs/gift008.png">
+      <publishTime>10/07/2018 11:08:04</publishTime>
+    </File>
+    <File Include="wwwroot/images/Souvenirs/gift009.png">
+      <publishTime>10/07/2018 11:08:18</publishTime>
+    </File>
+    <File Include="wwwroot/images/Souvenirs/gift010.png">
+      <publishTime>10/07/2018 11:08:30</publishTime>
+    </File>
+    <File Include="wwwroot/images/Souvenirs/gift011.png">
+      <publishTime>10/07/2018 11:08:40</publishTime>
+    </File>
+    <File Include="wwwroot/images/Souvenirs/gift012.png">
+      <publishTime>09/11/2018 09:34:26</publishTime>
+    </File>
+    <File Include="wwwroot/images/Souvenirs/gift013.png">
+      <publishTime>10/07/2018 11:08:56</publishTime>
+    </File>
+    <File Include="wwwroot/images/Souvenirs/gift014.png">
+      <publishTime>09/11/2018 09:55:46</publishTime>
+    </File>
+    <File Include="wwwroot/images/Souvenirs/gift015.png">
+      <publishTime>09/11/2018 10:33:24</publishTime>
+    </File>
+    <File Include="wwwroot/images/Souvenirs/gift016.png">
+      <publishTime>09/11/2018 10:00:08</publishTime>
+    </File>
+    <File Include="wwwroot/images/Souvenirs/gift017.png">
+      <publishTime>09/11/2018 10:33:42</publishTime>
+    </File>
+    <File Include="wwwroot/images/Souvenirs/gift018.png">
+      <publishTime>09/11/2018 10:33:58</publishTime>
+    </File>
+    <File Include="wwwroot/images/Souvenirs/gift019.png">
+      <publishTime>09/11/2018 10:02:24</publishTime>
+    </File>
+    <File Include="wwwroot/images/Souvenirs/gift020.png">
+      <publishTime>09/11/2018 10:02:48</publishTime>
+    </File>
+    <File Include="wwwroot/images/Souvenirs/gift021.png">
+      <publishTime>09/11/2018 10:03:12</publishTime>
+    </File>
+    <File Include="wwwroot/images/Souvenirs/gift022.png">
+      <publishTime>10/07/2018 11:09:14</publishTime>
+    </File>
+    <File Include="wwwroot/images/Souvenirs/gift023.png">
+      <publishTime>09/11/2018 10:04:26</publishTime>
+    </File>
+    <File Include="wwwroot/images/Souvenirs/gift024.png">
+      <publishTime>09/11/2018 10:06:20</publishTime>
+    </File>
+    <File Include="wwwroot/images/Souvenirs/gift025.png">
+      <publishTime>09/11/2018 10:07:10</publishTime>
+    </File>
+    <File Include="wwwroot/images/Souvenirs/gift026.png">
+      <publishTime>09/11/2018 10:07:42</publishTime>
+    </File>
+    <File Include="wwwroot/images/Souvenirs/gift027.png">
+      <publishTime>09/11/2018 10:08:00</publishTime>
+    </File>
+    <File Include="wwwroot/images/Souvenirs/gift028.png">
+      <publishTime>09/11/2018 10:08:30</publishTime>
+    </File>
+    <File Include="wwwroot/images/Souvenirs/gift029.png">
+      <publishTime>09/11/2018 10:09:10</publishTime>
+    </File>
+    <File Include="wwwroot/images/Souvenirs/gift030.png">
+      <publishTime>09/11/2018 10:09:44</publishTime>
+    </File>
+    <File Include="wwwroot/images/Souvenirs/hat001.png">
+      <publishTime>10/07/2018 11:22:04</publishTime>
+    </File>
+    <File Include="wwwroot/images/Souvenirs/hat002.png">
+      <publishTime>10/07/2018 11:20:14</publishTime>
+    </File>
+    <File Include="wwwroot/images/Souvenirs/hat003.png">
+      <publishTime>10/07/2018 11:21:30</publishTime>
+    </File>
+    <File Include="wwwroot/images/Souvenirs/hat004.png">
+      <publishTime>10/07/2018 11:19:42</publishTime>
+    </File>
+    <File Include="wwwroot/images/Souvenirs/hat005.png">
+      <publishTime>10/07/2018 11:21:54</publishTime>
+    </File>
+    <File Include="wwwroot/images/Souvenirs/hat006.png">
+      <publishTime>10/07/2018 11:20:54</publishTime>
+    </File>
+    <File Include="wwwroot/images/Souvenirs/hat007.png">
+      <publishTime>10/07/2018 11:18:46</publishTime>
+    </File>
+    <File Include="wwwroot/images/Souvenirs/hat008.png">
+      <publishTime>10/07/2018 11:16:24</publishTime>
+    </File>
+    <File Include="wwwroot/images/Souvenirs/hat009.png">
+      <publishTime>10/07/2018 11:17:48</publishTime>
+    </File>
+    <File Include="wwwroot/images/Souvenirs/hat010.png">
+      <publishTime>10/07/2018 11:21:04</publishTime>
+    </File>
+    <File Include="wwwroot/images/Souvenirs/hat011.png">
+      <publishTime>10/07/2018 11:21:12</publishTime>
+    </File>
+    <File Include="wwwroot/images/Souvenirs/hat012.png">
+      <publishTime>10/07/2018 11:19:20</publishTime>
+    </File>
+    <File Include="wwwroot/images/Souvenirs/hat013.png">
+      <publishTime>10/07/2018 11:17:20</publishTime>
+    </File>
+    <File Include="wwwroot/images/Souvenirs/hat014.png">
+      <publishTime>10/07/2018 11:19:06</publishTime>
+    </File>
+    <File Include="wwwroot/images/Souvenirs/Painting.png">
+      <publishTime>10/09/2018 18:34:54</publishTime>
+    </File>
+    <File Include="wwwroot/images/Souvenirs/t-shirt001.png">
+      <publishTime>10/07/2018 11:20:02</publishTime>
+    </File>
+    <File Include="wwwroot/images/Souvenirs/t-shirt002.png">
+      <publishTime>10/07/2018 11:21:46</publishTime>
+    </File>
+    <File Include="wwwroot/images/Souvenirs/t-shirt003.png">
+      <publishTime>10/07/2018 11:17:02</publishTime>
+    </File>
+    <File Include="wwwroot/images/Souvenirs/t-shirt004.png">
+      <publishTime>10/07/2018 11:19:52</publishTime>
+    </File>
+    <File Include="wwwroot/images/Souvenirs/t-shirt005.png">
+      <publishTime>10/07/2018 11:21:20</publishTime>
+    </File>
+    <File Include="wwwroot/images/Souvenirs/t-shirt006.png">
+      <publishTime>09/11/2018 10:35:34</publishTime>
+    </File>
+    <File Include="wwwroot/images/Souvenirs/t-shirt007.png">
+      <publishTime>10/07/2018 11:16:52</publishTime>
+    </File>
+    <File Include="wwwroot/images/Souvenirs/t-shirt008.png">
+      <publishTime>09/11/2018 10:35:58</publishTime>
+    </File>
+    <File Include="wwwroot/images/Souvenirs/t-shirt009.png">
+      <publishTime>10/07/2018 11:18:56</publishTime>
+    </File>
+    <File Include="wwwroot/images/Souvenirs/t-shirt010.png">
+      <publishTime>10/07/2018 11:14:02</publishTime>
+    </File>
+    <File Include="wwwroot/images/Souvenirs/t-shirt011.png">
+      <publishTime>09/11/2018 10:36:10</publishTime>
+    </File>
+    <File Include="wwwroot/images/Souvenirs/t-shirt012.png">
+      <publishTime>10/07/2018 11:20:24</publishTime>
+    </File>
+    <File Include="wwwroot/images/Souvenirs/t-shirt013.png">
+      <publishTime>09/11/2018 10:36:32</publishTime>
+    </File>
+    <File Include="wwwroot/images/Souvenirs/t-shirt014.png">
+      <publishTime>10/07/2018 11:20:34</publishTime>
+    </File>
+    <File Include="wwwroot/images/t-shirt.png">
+      <publishTime>10/07/2018 14:29:26</publishTime>
+    </File>
+    <File Include="wwwroot/images/t-shirts.jpg">
+      <publishTime>09/12/2018 11:29:54</publishTime>
+    </File>
+    <File Include="wwwroot/js/site.js">
+      <publishTime>10/09/2018 11:01:48</publishTime>
+    </File>
+    <File Include="wwwroot/js/site.min.js">
+      <publishTime>09/06/2018 14:01:38</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/.bower.json">
+      <publishTime>09/22/2018 14:13:36</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-theme.css">
+      <publishTime>09/22/2018 14:13:36</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-theme.css.map">
+      <publishTime>09/22/2018 14:13:36</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-theme.min.css">
+      <publishTime>09/22/2018 14:13:36</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-theme.min.css.map">
+      <publishTime>09/22/2018 14:13:36</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap.css">
+      <publishTime>09/22/2018 14:13:36</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap.css.map">
+      <publishTime>09/22/2018 14:13:36</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap.min.css">
+      <publishTime>09/22/2018 14:13:38</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map">
+      <publishTime>09/22/2018 14:13:38</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.eot">
+      <publishTime>09/22/2018 14:13:38</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.svg">
+      <publishTime>09/22/2018 14:13:38</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>09/22/2018 14:13:38</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff">
+      <publishTime>09/22/2018 14:13:38</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2">
+      <publishTime>09/22/2018 14:13:38</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.js">
+      <publishTime>09/22/2018 14:13:38</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.min.js">
+      <publishTime>09/22/2018 14:13:38</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/js/npm.js">
+      <publishTime>09/22/2018 14:13:38</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/LICENSE">
+      <publishTime>09/22/2018 14:13:36</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation-unobtrusive/.bower.json">
+      <publishTime>09/22/2018 14:13:38</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js">
+      <publishTime>09/22/2018 14:13:38</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js">
+      <publishTime>09/22/2018 14:13:38</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation/.bower.json">
+      <publishTime>09/22/2018 14:13:38</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation/dist/additional-methods.js">
+      <publishTime>09/22/2018 14:13:38</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation/dist/additional-methods.min.js">
+      <publishTime>09/22/2018 14:13:38</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation/dist/jquery.validate.js">
+      <publishTime>09/22/2018 14:13:38</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation/dist/jquery.validate.min.js">
+      <publishTime>09/22/2018 14:13:38</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation/LICENSE.md">
+      <publishTime>09/22/2018 14:13:38</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery/.bower.json">
+      <publishTime>09/22/2018 14:13:38</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery/dist/jquery.js">
+      <publishTime>09/22/2018 14:13:38</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery/dist/jquery.min.js">
+      <publishTime>09/22/2018 14:13:38</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery/dist/jquery.min.map">
+      <publishTime>09/22/2018 14:13:38</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery/LICENSE.txt">
+      <publishTime>09/22/2018 14:13:38</publishTime>
+    </File>
+    <File Include="wwwroot/logo-icon.png">
+      <publishTime>09/12/2018 23:33:02</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

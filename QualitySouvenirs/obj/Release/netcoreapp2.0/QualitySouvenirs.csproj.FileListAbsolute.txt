@@ -1,0 +1,24 @@
+E:\QualitySouvenirs - 101092018 - v1.3 Dev\QualitySouvenirs\bin\Release\netcoreapp2.0\QualitySouvenirs.deps.json
+E:\QualitySouvenirs - 101092018 - v1.3 Dev\QualitySouvenirs\bin\Release\netcoreapp2.0\QualitySouvenirs.runtimeconfig.json
+E:\QualitySouvenirs - 101092018 - v1.3 Dev\QualitySouvenirs\bin\Release\netcoreapp2.0\QualitySouvenirs.runtimeconfig.dev.json
+E:\QualitySouvenirs - 101092018 - v1.3 Dev\QualitySouvenirs\bin\Release\netcoreapp2.0\QualitySouvenirs.dll
+E:\QualitySouvenirs - 101092018 - v1.3 Dev\QualitySouvenirs\bin\Release\netcoreapp2.0\QualitySouvenirs.pdb
+E:\QualitySouvenirs - 101092018 - v1.3 Dev\QualitySouvenirs\obj\Release\netcoreapp2.0\QualitySouvenirs.csprojResolveAssemblyReference.cache
+E:\QualitySouvenirs - 101092018 - v1.3 Dev\QualitySouvenirs\obj\Release\netcoreapp2.0\QualitySouvenirs.csproj.CoreCompileInputs.cache
+E:\QualitySouvenirs - 101092018 - v1.3 Dev\QualitySouvenirs\obj\Release\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+E:\QualitySouvenirs - 101092018 - v1.3 Dev\QualitySouvenirs\obj\Release\netcoreapp2.0\QualitySouvenirs.AssemblyInfoInputs.cache
+E:\QualitySouvenirs - 101092018 - v1.3 Dev\QualitySouvenirs\obj\Release\netcoreapp2.0\QualitySouvenirs.AssemblyInfo.cs
+E:\QualitySouvenirs - 101092018 - v1.3 Dev\QualitySouvenirs\obj\Release\netcoreapp2.0\QualitySouvenirs.dll
+E:\QualitySouvenirs - 101092018 - v1.3 Dev\QualitySouvenirs\obj\Release\netcoreapp2.0\QualitySouvenirs.pdb
+E:\QualitySouvenirs\QualitySouvenirs\bin\Release\netcoreapp2.0\QualitySouvenirs.deps.json
+E:\QualitySouvenirs\QualitySouvenirs\bin\Release\netcoreapp2.0\QualitySouvenirs.runtimeconfig.json
+E:\QualitySouvenirs\QualitySouvenirs\bin\Release\netcoreapp2.0\QualitySouvenirs.runtimeconfig.dev.json
+E:\QualitySouvenirs\QualitySouvenirs\bin\Release\netcoreapp2.0\QualitySouvenirs.dll
+E:\QualitySouvenirs\QualitySouvenirs\bin\Release\netcoreapp2.0\QualitySouvenirs.pdb
+E:\QualitySouvenirs\QualitySouvenirs\obj\Release\netcoreapp2.0\QualitySouvenirs.csprojResolveAssemblyReference.cache
+E:\QualitySouvenirs\QualitySouvenirs\obj\Release\netcoreapp2.0\QualitySouvenirs.csproj.CoreCompileInputs.cache
+E:\QualitySouvenirs\QualitySouvenirs\obj\Release\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+E:\QualitySouvenirs\QualitySouvenirs\obj\Release\netcoreapp2.0\QualitySouvenirs.AssemblyInfoInputs.cache
+E:\QualitySouvenirs\QualitySouvenirs\obj\Release\netcoreapp2.0\QualitySouvenirs.AssemblyInfo.cs
+E:\QualitySouvenirs\QualitySouvenirs\obj\Release\netcoreapp2.0\QualitySouvenirs.dll
+E:\QualitySouvenirs\QualitySouvenirs\obj\Release\netcoreapp2.0\QualitySouvenirs.pdb

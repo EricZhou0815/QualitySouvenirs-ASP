@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{14600F17-CE5D-4CCB-9DD2-7BCE2F0755FF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="QualitySouvenirs/Views/Souvenirs/ShopItemDetails.cshtml">
+    <Files>
+      <File FileName="QualitySouvenirs/Controllers/ShoppingCartController.cs" Line="62" Column="9" />
+      <File FileName="QualitySouvenirs/Models/CartItem.cs" Line="1" Column="1" />
+      <File FileName="QualitySouvenirs/Models/OrderDetail.cs" Line="1" Column="1" />
+      <File FileName="QualitySouvenirs/Models/Order.cs" Line="1" Column="1" />
+      <File FileName="QualitySouvenirs/Views/Souvenirs/ShopItemDetails.cshtml" Line="26" Column="29" />
+      <File FileName="QualitySouvenirs/Views/Souvenirs/Shop.cshtml" Line="1" Column="1" />
+      <File FileName="QualitySouvenirs/Views/Souvenirs/Index.cshtml" Line="21" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.QualitySouvenirs PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
