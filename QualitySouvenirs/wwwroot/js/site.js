@@ -2,22 +2,22 @@
 // Write your JavaScript code.
 //googleMap
 function initMap() {
-    let uluru = { lat: -36.879889, lng: 174.707658 };
-    const map = new google.maps.Map(
+    var uluru = {lat: -36.879889,lng: 174.707658 };
+    var map = new google.maps.Map(
         document.getElementById('googleMap'),
         {
             zoom: 12,
             center: uluru
         }
     );
-    const marker = new google.maps.Marker({
+    var marker = new google.maps.Marker({
         position: uluru, map: map
     });
 }
 
 
 function taggleShoppingCart() {
-    const taggle = document.getElementById("taggleShoppingCart");
+    var taggle = document.getElementById("taggleShoppingCart");
     if (taggle.className === "glyphicon glyphicon-chevron-up") {
         //maximize shoppingCart
         document.getElementById("theCount").style.visibility = "hidden";
@@ -35,8 +35,8 @@ function taggleShoppingCart() {
 
 
 function AddToCart(event) {
-    const target = event.target || event.srcElement;
-    const Id = target.id;
+    var target = event.target || event.srcElement;
+    var Id = target.id;
     $.ajax({
         url: "/ShoppingCart/AddToCartStay",
         type: "POST",
