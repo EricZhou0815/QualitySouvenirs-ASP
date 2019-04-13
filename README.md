@@ -4,6 +4,6 @@ The website is currently hosted on the server of Unitec Institue of Technology. 
 
 ## Screen shot
 
-![sc1](doc/QS.png)
+![sc1](doc/QualitySouvenirs.png)
 
-![sc2](doc/QualitySouvenirs.png)
+![sc2](doc/QS.png)
